@@ -1,5 +1,5 @@
-# 🚀 Welcome to Vidovic Systems
+# Vidovic Systems
 
-We are a passionate software development team, focused on building efficient, clean, and scalable technological solutions.
+**Engineering Robust Software Solutions**
 
-> *"Writing quality code to build the future."*
+Vidovic Systems is a technology organization dedicated to designing, developing, and deploying high-performance, scalable software architectures. We prioritize clean code, modern engineering practices, and delivering exceptional value through technology.
